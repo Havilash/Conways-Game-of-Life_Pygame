@@ -1,7 +1,6 @@
 import time
 import numpy
 import os
-import keyboard
 import pygame
 from tkinter import *
 from tkinter import messagebox
